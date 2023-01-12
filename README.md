@@ -6,7 +6,7 @@
 <div align="center">
 <img src="https://img.shields.io/badge/Terraform-FFFFFF.svg?style=for-the-badge&logo=terraform&logoColor=purple">
   <img src="https://img.shields.io/badge/AWS-%23181717.svg?style=for-the-badge&logo=amazonaws&logoColor=F7E017">	
-  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/Vim-green.svg?style=for-the-badge&logo=vim&logoColor=purple">
     <img src="https://img.shields.io/badge/Bash-000000.svg?style=for-the-badge&logo=shell&logoColor=green">
   <img src="https://img.shields.io/badge/JavaScript-000000.svg?style=for-the-badge&logo=javascript&logoColor=F7E017">
 
