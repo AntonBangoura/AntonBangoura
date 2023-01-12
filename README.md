@@ -59,3 +59,8 @@
 </p>
 
 <p align="center"><img src="https://profile-counter.glitch.me/{AntonBangoura}/count.svg"></p>
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antonbangoura&layout=compact)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=antonbangoura&theme=neon-palenight&hide_border=true)
+
