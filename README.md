@@ -29,9 +29,9 @@
 <p>
 <div align="center">
   <img src="https://img.shields.io/badge/Node.js-green.svg?style=for-the-badge&logo=node.js&logoColor=black">
-  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/Jira-%23121011.svg?style=for-the-badge&logo=Jira&logoColor=white">
   <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white">
-  <img src="https://img.shields.io/badge/Jira-2684FF.svg?style=for-the-badge&logo=Jira&logoColor=white">
+  <img src="https://img.shields.io/badge/Azure-2684FF.svg?style=for-the-badge&logo=Microsoft&logoColor=white">
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
   <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
 
