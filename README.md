@@ -44,7 +44,8 @@
 <p align="center">Contact me:</p>
 <p align="center">
 	<a href="https://ua.linkedin.com/in/anton-bangoura-68a2151a2" rel="nofollow">
-  		<img alt="Anton Bangoura's LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" style="max-width: 100%;">
+  		<img alt="Anton Bangoura's LinkedIn" width="22px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+" style="max-width: 100%;">
 	</a>
 </div>
 </p>
