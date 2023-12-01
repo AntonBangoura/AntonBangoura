@@ -44,7 +44,7 @@
 <p align="center">Contact me:</p>
 <p align="center">
 	<a href="https://ua.linkedin.com/in/anton-bangoura-68a2151a2" rel="nofollow">
-  		<img alt="Anton Bangoura's LinkedIn" width="22px" src="[https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg](https://media.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_200_200/0/1638831590218/linkedin_logo?e=2147483647&v=beta&t=i6WzGamCuZk4Fog5oxMlYsQv0l_ou-yvOdklRNEcBwo)" style="max-width: 100%;">
+  		<img alt="Anton Bangoura's LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" style="max-width: 100%;">
 	</a>
 </div>
 </p>
